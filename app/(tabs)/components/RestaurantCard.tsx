@@ -20,6 +20,7 @@ const RestaurantCard: React.FC<RestaurantCardProps> = ({ item }) => {
         style={{
           shadowColor: "#ff0000",
           shadowRadius: 7,
+          
         }}
         className="mr-6 bg-white rounded-3xl shadow-lg "
       >

@@ -18,22 +18,23 @@ export const categories = [
   {
     id: 5,
     name: "Chinese",
-    image: require("../assets/images/categories/icons8-pizza-96.png"),
+    image: require("../assets/images/categories/icons8-takeout-box-96.png"),
   },
-  {
-    id: 6,
-    name: "Japonese",
-    image: require("../assets/images/categories/icons8-pizza-96.png"),
-  },
+
   {
     id: 7,
-    name: "Noodles",
-    image: require("../assets/images/categories/icons8-pizza-96.png"),
+    name: "Drinks",
+    image: require("../assets/images/categories/icons8-tropical-drink-96.png"),
   },
   {
     id: 1,
     name: "Sweets",
-    image: require("../assets/images/categories/icons8-pizza-96.png"),
+    image: require("../assets/images/categories/icons8-cupcake-emoji-96.png"),
+  },
+  {
+    id: 1,
+    name: "See Food",
+    image: require("../assets/images/categories/icons8-tropical-fish-96.png"),
   },
 ];
 
